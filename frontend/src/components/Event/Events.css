@@ -597,7 +597,9 @@ a {
   box-shadow: var(--shadow-sm);
   margin-bottom: var(--spacing-lg);
 }
-
+.form-section label{
+  color:#00ADB5;
+}
 .section-title {
   display: flex;
   align-items: center;
@@ -1491,3 +1493,4 @@ a {
     background-position: -200% 0;
   }
 }
+
