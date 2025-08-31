@@ -9,7 +9,7 @@ It allows users to explore events, register, book tickets, and manage event part
 
 - 🔐 **User Authentication & Authorization** (JWT-based login & signup)  
 - 📅 **Event Management** – Create, update, delete, and view events  
-- 🎟️ **Booking System** – Reserve and manage event tickets  
+- 🎟️ **Booking System** – Reserve, Cancel and check events 
 - 🛠️ **Admin Dashboard** – Manage users and events  
 
 ---
@@ -116,6 +116,6 @@ EventX database includes:
 
 ## 👨‍💻 Author  
 
-**Abdelrahman Kishk**  
+**Abdelrahman Keshk**  
  Passionate about Web Development & Cybersecurity  
 🔗 [GitHub Profile](https://github.com/Abdelrahmankishk)  
