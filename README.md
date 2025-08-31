@@ -1,17 +1,15 @@
-# 🎉 EventX – Event Management System  
+# EventX – Event Management System  
 
 EventX is a **full-stack event management platform** built with **React.js, Node.js (Express), and MongoDB**.  
 It allows users to explore events, register, book tickets, and manage event participation. Event organizers can create, update, and manage events through a simple, user-friendly dashboard.  
 
 ---
 
-## 🚀 Features  
+##  Features  
 
 - 🔐 **User Authentication & Authorization** (JWT-based login & signup)  
 - 📅 **Event Management** – Create, update, delete, and view events  
 - 🎟️ **Booking System** – Reserve and manage event tickets  
-- 💳 **Payment Integration** (sample/mock payments included)  
-- ⭐ **Feedback & Reviews** – Users can review events  
 - 🛠️ **Admin Dashboard** – Manage users and events  
 
 ---
@@ -19,7 +17,7 @@ It allows users to explore events, register, book tickets, and manage event part
 ## 🛠️ Tech Stack  
 
 **Frontend**:  
-- React.js (with React Router, Axios, Tailwind CSS/Bootstrap for styling)  
+- React.js (with React Router, Axios, Bootstrap for styling)  
 
 **Backend**:  
 - Node.js + Express.js  
@@ -42,10 +40,6 @@ It allows users to explore events, register, book tickets, and manage event part
 EventX/
 │── frontend/        # React.js frontend
 │── backend/         # Node.js + Express.js backend
-│   ├── models/      # MongoDB models
-│   ├── routes/      # API routes
-│   ├── controllers/ # Business logic
-│── database/        # MongoDB collections (sample data)
 │── README.md        # Project documentation
 ```
 
@@ -90,7 +84,6 @@ EventX database includes:
 - **Users Collection** → stores user info (name, email, password hash, role)  
 - **Events Collection** → stores event details (title, description, location, date, organizer)  
 - **Bookings Collection** → tracks reservations (userID, eventID, tickets, payment status)  
-- **Feedback Collection** → event ratings & comments  
 
 ---
 
@@ -115,7 +108,8 @@ EventX database includes:
 ## 🌐 Live Demo  
 
 - Frontend: [EventX Frontend (Vercel)](https://event-x-studio.vercel.app/)  
-- Backend API: [EventX Backend (Railway)](https://eventx-studio-production-ffea.up.railway.app/)  
+- Backend API: [EventX Backend (Railway)](https://eventx-studio-production-ffea.up.railway.app/)
+- Postman Documentation: [Postman Link](https://abdelrahmankishk-4111642.postman.co/workspace/Abdelrahman-Kishk's-Workspace~0749537d-950e-462a-8012-349fcea93b52/collection/47716495-db87adb3-33ab-45fe-b69d-6f43a2625da2?action=share&creator=47716495)  
 - Database: MongoDB Atlas  
 
 ---
@@ -123,5 +117,5 @@ EventX database includes:
 ## 👨‍💻 Author  
 
 **Abdelrahman Kishk**  
-🚀 Passionate about Web Development & Cybersecurity  
+ Passionate about Web Development & Cybersecurity  
 🔗 [GitHub Profile](https://github.com/Abdelrahmankishk)  
