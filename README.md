@@ -49,7 +49,7 @@ EventX/
 
 ### 1️⃣ Clone Repository  
 ```bash
-git clone https://github.com/your-username/EventX.git
+git clone https://github.com/Abdelrahmankishk/EventX-Studio
 cd EventX
 ```
 
